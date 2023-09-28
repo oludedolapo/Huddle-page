@@ -12,7 +12,7 @@ h2 {
 }
 
 img {
-  /* max-width: 100%; */
+
   display: block;
 }
 
@@ -152,9 +152,7 @@ main {
   gap: 2.5rem;
 }
 
-/* .container:nth-child(1){
-    border: 1px solid purple;
-} */
+
 .container {
   display: flex;
   align-items: center;
@@ -164,24 +162,18 @@ main {
   border-radius: 16px;
   background: #fff;
   box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.07);
-  /* padding: 3rem; */
-  /* width: 1200px;  */
+
   height: 440px;
-  /* border: 1px solid green; */
+
   gap: 5rem;
   flex-wrap: wrap;
 }
 
 .container img {
-  /* max-width: 100%; */
+
   width: 25%;
 }
 
-/* why is this not working i dont know */
-/* .container:nth-child(1){
-    border: 1px solid purple;
-  
-} */
 
 .margin-left {
   /* border: 1px solid red; */
